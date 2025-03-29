@@ -25,7 +25,7 @@ This sentiment analysis project showcases:
 Follow these steps to get started:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/MovieReviewSentimentAnalysis.git
+   git clone https://github.com/SauravNayak-C2/MovieReviewSentimentAnalysis.git
    ```
 2. Navigate to the project directory:
    ```bash
