@@ -1,0 +1,12 @@
+**Libraries Used in Your Project**:
+   List all the Python libraries or frameworks your code uses. For example:
+   - `numpy`: For numerical operations.
+   - `pandas`: For data manipulation.
+   - `scikit-learn`: For machine learning algorithms.
+   - `matplotlib` or `seaborn`: For data visualization.
+   - `nltk` or `spacy`: For natural language processing tasks.
+**Dependency Management**:
+   Use tools like `pip freeze` to automatically generate a list of installed packages in your environment:
+   ```bash
+   pip freeze > requirements.txt
+   ```
