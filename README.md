@@ -1,8 +1,3 @@
-# MovieReviewSentimentAnalysis
-This project is Analysis of Movie's Review to show negative or positive.
-
-Sure thing, Saurav! Here's an engaging and detailed explanation you can include in your `README.md` file to make your project shine:
-
 # Movie Review Sentiment Analysis
 
 This project dives into the fascinating world of natural language processing (NLP) to analyze sentiments from movie reviews. By leveraging machine learning techniques, the goal is to classify reviews into positive or negative categories and provide insights into audience opinions.
