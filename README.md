@@ -40,8 +40,8 @@ You can pass input data as arguments or modify the script to load your dataset.
 
 ## Example Results
 Here's a snapshot of what the analysis looks like:
-- Positive Reviews: 50%
-- Negative Reviews: 50%
+- Positive Reviews: 85%
+- Negative Reviews: 15%
 
 Visualizations such as bar charts or pie charts of sentiment distribution can also be included to make the findings more appealing.
 
